@@ -1,0 +1,30 @@
+﻿body {
+    font-family: "Open Sans";
+    margin-top: 300px;
+    text-align: center;
+    color: black;
+    background-color: aqua; 
+    /*background: url('c4a7702b77f6221d1c2cd8553dcc4cde.jpg') no-repeat center center fixed;
+    background-size: cover; */
+    
+    
+   
+    
+}
+
+#clock {
+    font-weight: 300;
+    font-size: 300px;
+   opacity: 0.5;
+}
+
+#color {
+    font-size: 0px;
+}
+
+
+/*
+font-weight: 300;
+    font-size: 100px;
+    margin-top: 650px;
+    margin-left: 40px;*/
